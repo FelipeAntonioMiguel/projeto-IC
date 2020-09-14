@@ -1,4 +1,4 @@
-#Projetos
+Projetos
 
 Sensor de força aplicado em manipuladores aéreos:
 
